@@ -62,4 +62,4 @@ play.addEventListener('click', toggleVideoStatus);
 
 stop.addEventListener('click', stopVideo);
 
-progress.addEventListener('change', setVideoProgress);
+progress.addEventListener('change', setVideoProgress);s
